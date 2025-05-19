@@ -13,4 +13,5 @@ POST end points:
   Yearly update end point:                                   "http://localhost:8080/appliances/update"
 
 Get end points:
+
   Can chcek status of each appliances.                          "http://localhost:8080/appliances/status"
